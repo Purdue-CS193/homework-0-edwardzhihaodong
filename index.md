@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 #Edward Dong's First CS193 Homework
-**Reasons why I love CS193**
+###**Reasons why I love CS193**
 - It's student run
 - It's a CS class
 - It makes me feel less bad for having classes from 10:30am to 6:20pm on the day I have CS193
