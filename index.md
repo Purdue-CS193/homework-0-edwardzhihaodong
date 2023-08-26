@@ -18,21 +18,26 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-**Bold works just like Discord, that's cool**
-
-~~I haven't used like, half these characters ever and I have to look for them~~
-~~_Does combining stuff work?_~~
-
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
->why do quotes use a greater than sign like what????
-
 [Link](url) and ![Image](src)
 ```
+#Edward Dong's First CS193 Homework
+**Reasons why I love CS193**
+- It's student run
+- It's a CS class
+- It makes me feel less bad for having classes from 10:30am to 6:20pm on the day I have CS193
 
+**Bold works just like Discord, that's cool**
+*ITALICIZE WORKS TOO*
+
+~~I haven't used like, half these characters ever and I have to look for them~~
+_~~Does combining stuff work?~~_
+
+>why do quotes use a greater than sign like what????
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
