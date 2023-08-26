@@ -11,17 +11,24 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Lukas loved Among Us, now he loves Concrete as well.
+## I named a variable in every assignment I did in APCSA "bruh".
+### Smol Heder
 
 - Bulleted
 - List
+
+**Bold works just like Discord, that's cool**
+
+~~I haven't used like, half these characters ever and I have to look for them~~
+~~_Does combining stuff work?_~~
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
+>why do quotes use a greater than sign like what????
 
 [Link](url) and ![Image](src)
 ```
