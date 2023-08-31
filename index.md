@@ -8,6 +8,8 @@
 **Bold works just like Discord, that's cool**
 *ITALICIZE WORKS TOO*
 
+- checking if lists use double arrows for some reason because they do that on the website but not on github.
+
 ~~I haven't used like, half these characters ever and I have to look for them~~
 _~~Does combining stuff work?~~_
 
